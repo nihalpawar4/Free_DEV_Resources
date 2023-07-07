@@ -1,4 +1,4 @@
-# JavaScript Resources for Beginners
+# JavaScript_Resources for Beginners:
 
 Welcome to the world of JavaScript development! Whether you're just starting out or looking to enhance your skills, this README file provides a curated list of free resources that can help you on your journey. Below, you will find a collection of YouTube channels, blogs, notes, and cheatsheets that offer valuable insights into JavaScript.
 
