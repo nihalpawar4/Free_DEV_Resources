@@ -28,3 +28,11 @@ Welcome to the world of JavaScript development! Whether you're just starting out
 Feel free to explore these resources at your own pace. They cover a wide range of topics and learning styles, allowing you to choose what suits you best. Remember, practice and hands-on coding are crucial to mastering JavaScript. Enjoy your learning journey and have fun building awesome things with JavaScript!
 
 Happy coding!
+
+## Contributing
+
+If you have any additional resources or suggestions, please feel free to contribute to this repository by creating a pull request. Together, we can make this resource even more valuable for CSS beginners.
+
+## License
+
+This resource repository is licensed under the [MIT License](LICENSE.md).
