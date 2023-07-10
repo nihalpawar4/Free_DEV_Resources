@@ -40,3 +40,11 @@ This README file serves as a guide for beginner HTML developers, providing a cur
 Feel free to explore these resources and find the learning methods that suit you best. Remember to practice your skills by building projects and experimenting with different HTML elements and techniques. Good luck on your HTML development journey!
  
  Happy coding!
+
+ ## Contributing
+
+If you have any additional resources or suggestions, please feel free to contribute to this repository by creating a pull request. Together, we can make this resource even more valuable for CSS beginners.
+
+## License
+
+This resource repository is licensed under the [MIT License](LICENSE.md).
