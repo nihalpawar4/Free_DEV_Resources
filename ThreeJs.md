@@ -25,3 +25,11 @@ Welcome to the world of Three.js! As a beginner, you'll find a wealth of free re
 Feel free to explore these resources at your own pace and in the order that suits you best. Remember to practice coding and experiment with the examples provided to gain hands-on experience. Don't hesitate to reach out to the vibrant Three.js community if you have any questions or need further assistance.
 
 Happy coding and enjoy your journey with Three.js!
+
+## Contributing
+
+If you have any additional resources or suggestions, please feel free to contribute to this repository by creating a pull request. Together, we can make this resource even more valuable for CSS beginners.
+
+## License
+
+This resource repository is licensed under the [MIT License](LICENSE.md).
