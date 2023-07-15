@@ -24,7 +24,9 @@ Welcome to the world of Redux! This README file aims to provide you with a curat
 
 2. [Redux Essential Cheat Sheet](https://gist.github.com/abhiaiyer91/5ca39eb3c426c7a894637a9cda0e6e18): This cheat sheet by Abhi Aiyer offers a concise overview of the essential Redux concepts, including actions, reducers, and store setup. It serves as a quick reference for Redux beginners.
 
-Feel free to explore these updated resources and choose the ones that resonate with your learning style. Redux is a powerful state management library, and with practice, you'll become proficient in utilizing its capabilities. Happy coding!
+Feel free to explore these updated resources and choose the ones that resonate with your learning style. Redux is a powerful state management library, and with practice, you'll become proficient in utilizing its capabilities. 
+
+Happy coding!
 
 ## Contributing
 
