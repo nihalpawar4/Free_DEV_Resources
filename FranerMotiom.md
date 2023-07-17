@@ -41,6 +41,14 @@ Welcome to the world of Framer Motion for 3D model developers! Framer Motion is 
 Remember, the key to mastering Framer Motion is practice and experimentation. Combine the knowledge gained from these resources and apply it to your 3D model projects.
 
  Happy animating!
+ 
+ ## Contributing
+
+If you have any additional resources or suggestions, please feel free to contribute to this repository by creating a pull request. Together, we can make this resource even more valuable for CSS beginners.
+
+## License
+
+This resource repository is licensed under the [MIT License](LICENSE.md).
 
 **Note:** Please ensure to give credit to the creators of these resources when using them in your projects and follow any licensing terms associated with them.
 
