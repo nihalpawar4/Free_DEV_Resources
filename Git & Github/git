@@ -1,0 +1,25 @@
+# Welcome to Git for Beginners!
+
+If you're new to Git and version control, this is the perfect place to start. Below, you'll find a curated list of free resources that will help you get started with Git, along with links to YouTube tutorials, blogs, notes, and cheat sheets. Happy learning!
+
+## YouTube Tutorials:
+1. [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) - A comprehensive crash course by Traversy Media to get you up and running with Git and GitHub.
+2. [Git Tutorial for Beginners](https://www.youtube.com/watch?v=HVsySz-h9r4) - This video by Corey Schafer covers the basics of Git and demonstrates common Git commands.
+3. [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE) - An excellent quick-start guide by Jake Wright to learn Git essentials in just 15 minutes.
+
+## Blogs and Articles:
+1. [A Practical Guide to Git for Absolute Beginners](https://www.freecodecamp.org/news/practical-git-for-absolute-beginners/) - This beginner-friendly guide on FreeCodeCamp covers the basics of Git with clear examples.
+2. [The Git Handbook](https://guides.github.com/introduction/git-handbook/) - GitHub's official guide to understanding the fundamentals of Git.
+3. [Getting Git Right](https://www.atlassian.com/git) - Atlassian's in-depth guide to mastering Git concepts and workflows.
+
+## Notes and Documentation:
+1. [Git Official Documentation](https://git-scm.com/doc) - The official documentation for Git, covering everything from basic commands to advanced topics.
+2. [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub's concise cheat sheet with commonly used Git commands and their explanations.
+3. [Pro Git](https://git-scm.com/book/en/v2) - A free online book that covers Git in detail, from basic to advanced concepts.
+
+## Cheat Sheet:
+1. [Git Cheat Sheet by GitHub](https://education.github.com/git-cheat-sheet-education.pdf) - A handy one-page cheat sheet with the most commonly used Git commands.
+
+Feel free to explore these resources at your own pace. Remember, Git can be a powerful tool, and learning it will greatly enhance your development workflow.
+
+ Happy coding!
