@@ -42,7 +42,3 @@ We appreciate your contributions and look forward to building an amazing resourc
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the above template with any additional information or sections you find relevant. Once you're satisfied with the content, create a new README.md file in your local repository and paste the contents into it. Then, use Git to add, commit, and push the changes to your GitHub repository. Your Node.js Beginner's Resources README is now ready to be shared with the world!
