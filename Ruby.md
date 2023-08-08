@@ -29,3 +29,11 @@ If you find any additional useful resources or want to contribute to this list, 
 Learning Ruby can be a rewarding experience, and these free resources will help you get started on the right track. Remember to practice regularly, build small projects, and engage with the community to enhance your skills. 
 
 Happy coding!
+
+## Contributing
+
+If you have any additional resources or suggestions, please feel free to contribute to this repository by creating a pull request. Together, we can make this resource even more valuable for CSS beginners.
+
+## License
+
+This resource repository is licensed under the [MIT License](LICENSE.md).
